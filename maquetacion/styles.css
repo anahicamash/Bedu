@@ -41,6 +41,10 @@ nav > ul > li > a {
 
 .actions {
     width: 15%;
+  
+}
+.actions a{
+    text-decoration: none;
 }
 
 .actions > * {
