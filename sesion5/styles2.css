@@ -73,33 +73,29 @@ body{
         flex-direction: column;
         max-width: 90%;
         text-align: center;
-      }
+    }
     
-      .explanatory-video > video {
+   .explanatory-video > video {
         width: 100%;
-      }
+    }
     
-      .publish {
+    .publish {
         margin-top: 10px;
-      }
+    }
     
-      .publish > h3 {
+    .publish > h3 {
         font-size: 25px;
         line-height: 1.2;
-      }
+    }
 
-      .features{
+    .features{
           
           flex-direction: column;
           display: flex;
           margin: 5px;
-      }
-      .feature-card{
-          flex-direction: column;
-      }
-
     }
-
-    
+    .feature-card{
+          flex-direction: column;
+    }
 }
   
