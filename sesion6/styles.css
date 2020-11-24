@@ -9,16 +9,49 @@
     background-color:#025157;
     color:#fff;
 }
-
-.container img:hover{
-    transform: scale(1.5);
+.derecha button:hover{
+    background-color: #67b54b;
+    color: #fff;
     
+    
+}
 
+.Stop h1{
+    color:#025157;
+    font-family: Arial,sans-serif;
+}
+.Stop a{
+    background-color: #67b54b;
+    color: #fff;
+    border-color:#67b54b;
+}
+.Stop a:hover{
+   
+    color: #fff;
+    
+}
+.top-image{
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 99%;
+}
+.top-image img{
+    transition: all 0.3s;
+    
+}
+.top-image:hover img{
+    transform: scale(1.1);
 }
 .Top{
     text-align: center;
 }
 .Top h2{
     color:#025157;
-    font-family: 'IBM Plex Sans',Arial,sans-serif;
+    font-family: Arial,sans-serif;
+   
 }
+
+
+
+
